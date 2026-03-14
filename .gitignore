@@ -1,0 +1,27 @@
+# Lab PDF and report (local only)
+Leaky_Database.pdf
+Leaky_Database_Lab_Report.*
+
+# Original cloned repo
+Docker_Security_Labs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Env / secrets
+.env
+.env.local
+*.key
+
+# Docker
+docker-compose.override.yml
+
+# Logs
+*.log

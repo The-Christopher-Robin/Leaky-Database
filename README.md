@@ -1,6 +1,6 @@
 # SQL Injection Lab — "A Leaky Database"
 
-TCSS 576 — Wireless Systems Security | Eureka Labs
+Eureka Labs
 
 ## What is this?
 
